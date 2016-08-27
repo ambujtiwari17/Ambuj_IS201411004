@@ -1,21 +1,33 @@
 ﻿The SEFP class has been a delight to attend since day one. Here are some of my learnings over the course of past few weeks.
 
 Week-1
-Case study of Pokemon Go – an augmented reality app that took the world by storm due to its high level of interactivity and playfulness. 
-Extending augmented reality and location based features to new applications that can solve major problems in our daily lives.
-Kano model and its three categories – dissatisfiers, satisfiers and delighters.
-Identifying these three areas in current apps and formulating them to suggest improvements.
+-> Case study of Pokemon Go – an augmented reality app that took the world by storm due to its high level of interactivity and playfulness. 
+-> Extending augmented reality and location based features to new applications that can solve major problems in our daily lives.
+-> Kano model and its three categories – dissatisfiers, satisfiers and delighters.
+-> Identifying these three areas in current apps and formulating them to suggest improvements.
 
 Week-2
-The importance of quality in software development – how instrumental quality is to the success of a software and how it decides its sustenance in the market.
-Brainstormed on some potential project ideas and discussed it with Sridhar sir and peers.
-Collaborative learning and its advantages.
+-> The importance of quality in software development – how instrumental quality is to the success of a software and how it decides its sustenance in the market.
+-> Brainstormed on some potential project ideas and discussed it with Sridhar sir and peers.
+-> Collaborative learning and its advantages.
 
 Week-3
-Difference between professional and unprofessional work done.
-The importance of being equipped with the latest tools and technologies.
-Characteristics of software.
-Software is an inter-disciplinary field. An amalgamation of art, science, craft, creativity. 
-Origins of Software Engineering – NATO and the coinage of the term 'software engineering'. 
-Djikstra's diary entries, his views on Software Engineering.
-Basic principles used in software engineering – Abstraction, Decomposition, Modularity. 
+-> Difference between professional and unprofessional work done.
+-> The importance of being equipped with the latest tools and technologies.
+-> Characteristics of software.
+-> Software engineering is an inter-disciplinary field. An amalgamation of art, science, craft, creativity. 
+-> Origins of Software Engineering – NATO and the coinage of the term 'software engineering'. 
+-> Djikstra's diary entries, his views on Software Engineering.
+-> Basic principles used in software engineering – Abstraction, Decomposition, Modularity. 
+
+Week-4
+-> Life cycles of software and comparing these life cycles to those of humans.
+-> Influential factors in software life cycles - people, tools, processes and products.
+-> The importance of 'requirement engineering' - how critical it is to the formation of a product.
+-> Every task done or decision taken must have a 'rationale' with it as an essential component. RATIONALE = THE WHY.
+-> Tried to list down the requirements of stakeholders for an application like Facebook, thinking from various viewpoints and how to accomodate each to deliver a satisfactory product.
+-> Different types of worlds - problem, solution, design and machine/programming worlds and how proper communication between the associated entities is critical.
+-> Why we need to rely more on roles and less on people.
+-> Requirements should not be ambiguous.
+-> Elicitation, analysis, testing of requirements. How user journeys, wireframes can be used to determine requirements at early stages.
+-> Different models for software development - traditional(waterfall) and agile(scrum, DFD etc.) and how agile approaches are modified, improved versions of the classic waterfall model.
