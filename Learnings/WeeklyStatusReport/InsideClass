@@ -31,3 +31,18 @@ Week-4
 -> Requirements should not be ambiguous.
 -> Elicitation, analysis, testing of requirements. How user journeys, wireframes can be used to determine requirements at early stages.
 -> Different models for software development - traditional(waterfall) and agile(scrum, DFD etc.) and how agile approaches are modified, improved versions of the classic waterfall model.
+
+Week-5
+-> Time-boxing - each task, small or large, should be alloted some deadline under which it should be completed.
+-> Learnt in detail about prototypes and how prototypes help in determining problems in the early stages of a project.
+-> These prototypes help mitigate risks, identify loopholes and improve overall planning. They also help in the assessment of feasibility of a project.
+-> Learnt about evolutionary model, which works on an incremental approach. The project is broken down into smaller modules which can then be independently worked upon.
+   This is then iterated over and over again and changes are made accordingly until a version is ready for release.
+-> Version control is critical and inevitable for a project today. It gives a bird's eye view of the development journey of the project and helps keep track of major checkpoints.
+-> Every project needs to be understood from the points of view of four entities - developer, designer, tester and user.
+-> Another prototyping model- the spiral model works in an interesting way. After each cycle of development is completed, project is tested and again repeats the cycle.
+-> Learnt about 'Agile Manifesto' and debated over the values and ideals it is based on.
+-> How Scrum - an Agile method works - backlogs, burndown charts, daily scrum meetings and strict deadlines.
+-> Project management and planning and estimations are critical components of a project.
+-> Cone of uncertainty - how unrealistic expectations gradually turn into realistic achievements as a project progresses.
+-> Code reuse is directly related to software quality. Identifying the critical qualities and understanding the tradeoffs between various factors is important.
